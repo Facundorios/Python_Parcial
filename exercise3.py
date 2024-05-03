@@ -86,4 +86,4 @@ def crear_dataframe():
 #ventas_mayores_20()
 #mayor_mes_venta()
 #promedio_ventas()
-crear_dataframe()
+#crear_dataframe()

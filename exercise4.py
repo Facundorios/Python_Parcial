@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 #Importamos desde el archivo anterior el df, que vendria siendo el dataFrame
 from exercise3 import df
 
-#Definimos los es¿jes correspondientes. X son los meses e Y son el total de ventas. 
+#Definimos los esjes correspondientes. X son los meses e Y son el total de ventas. 
 x = df["mes"]
 y = df["total_ventas"]
 
